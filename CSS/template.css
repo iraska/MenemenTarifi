@@ -1,0 +1,51 @@
+h1 
+{
+    text-align: center; 
+    color: brown; 
+    font-size: xx-large;
+}
+h2 
+{
+    text-align: center; 
+    color:chocolate; 
+    font-size:x-large;
+}
+/* I defined a class to create inline-block in a paragraph */
+p.inline-block {display: inline-block;}
+img 
+{
+    /* Make align in the middle of the page */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* Make frame for img */
+    border: 5px solid #555;
+}
+section.align-section {text-align: center;}
+/* Rescale hr  */
+hr {margin: auto 300px;}
+input 
+{
+    accent-color: auto;
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+/* To create a colored text accent, instead of mark */
+span.mark 
+{
+    color: wheat; 
+    background-color: brown;
+}
+span.colored-transition 
+{
+    color:rgb(181, 255, 152); 
+    background: linear-gradient(to right, #cae587 0%,#ea9a75 100%);
+}
+/* To center list elements */
+li 
+{
+    margin-left: 45%; 
+    margin-right: 45%;
+}
