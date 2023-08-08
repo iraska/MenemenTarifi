@@ -1,4 +1,2 @@
 # MenemenTarifi
-
-![meno1](https://github.com/iraska/MenemenTarifi/assets/105501017/1259d6df-2e07-4064-b429-4e6fc09078f3)
-![meno2](https://github.com/iraska/MenemenTarifi/assets/105501017/6e256921-c6c3-4b64-b366-f30939d22027)
+![menn](https://github.com/iraska/MenemenTarifi/assets/105501017/661c2e93-4f6a-4ce0-8e96-3b420ac9f972)
